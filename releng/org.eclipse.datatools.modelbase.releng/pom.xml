@@ -16,6 +16,10 @@
 
     <modules>
     	<module>../../plugins/org.eclipse.datatools.modelbase.sql</module>
+        <!--module>../../plugins/org.eclipse.datatools.modelbase.sql.edit</module-->
+    	<module>../../plugins/org.eclipse.datatools.modelbase.sql.query</module>
+        <module>../../plugins/org.eclipse.datatools.modelbase.sql.xml.query</module>
+        <!--module>../../plugins/org.eclipse.datatools.modelbase.sql.query.edit</module-->
     	<module>../../plugins/org.eclipse.datatools.modelbase.dbdefinition</module>
     </modules>
 </project>
